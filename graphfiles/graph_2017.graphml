@@ -1,0 +1,3475 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d1" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d0" for="node" attr.name="freq" attr.type="long"/>
+<graph edgedefault="undirected"><node id="el">
+  <data key="d0">51</data>
+</node>
+<node id="del">
+  <data key="d0">27</data>
+</node>
+<node id="al">
+  <data key="d0">21</data>
+</node>
+<node id="miss">
+  <data key="d0">16</data>
+</node>
+<node id="love">
+  <data key="d0">49</data>
+</node>
+<node id="know">
+  <data key="d0">43</data>
+</node>
+<node id="follow">
+  <data key="d0">11</data>
+</node>
+<node id="back">
+  <data key="d0">28</data>
+</node>
+<node id="please">
+  <data key="d0">14</data>
+</node>
+<node id="au">
+  <data key="d0">26</data>
+</node>
+<node id="du">
+  <data key="d0">47</data>
+</node>
+<node id="mon">
+  <data key="d0">15</data>
+</node>
+<node id="ce">
+  <data key="d0">24</data>
+</node>
+<node id="family">
+  <data key="d0">33</data>
+</node>
+<node id="friend">
+  <data key="d0">11</data>
+</node>
+<node id="еще">
+  <data key="d0">13</data>
+</node>
+<node id="что">
+  <data key="d0">20</data>
+</node>
+<node id="service">
+  <data key="d0">16</data>
+</node>
+<node id="world">
+  <data key="d0">28</data>
+</node>
+<node id="life">
+  <data key="d0">35</data>
+</node>
+<node id="approach">
+  <data key="d0">24</data>
+</node>
+<node id="strategy">
+  <data key="d0">44</data>
+</node>
+<node id="way">
+  <data key="d0">15</data>
+</node>
+<node id="across">
+  <data key="d0">10</data>
+</node>
+<node id="around">
+  <data key="d0">12</data>
+</node>
+<node id="shirt">
+  <data key="d0">14</data>
+</node>
+<node id="tshirt">
+  <data key="d0">11</data>
+</node>
+<node id="smart">
+  <data key="d0">29</data>
+</node>
+<node id="cool">
+  <data key="d0">14</data>
+</node>
+<node id="abroad">
+  <data key="d0">15</data>
+</node>
+<node id="overseas">
+  <data key="d0">18</data>
+</node>
+<node id="napoli">
+  <data key="d0">12</data>
+</node>
+<node id="appoint">
+  <data key="d0">24</data>
+</node>
+<node id="se">
+  <data key="d0">23</data>
+</node>
+<node id="que">
+  <data key="d0">57</data>
+</node>
+<node id="va">
+  <data key="d0">13</data>
+</node>
+<node id="le">
+  <data key="d0">98</data>
+</node>
+<node id="non">
+  <data key="d0">16</data>
+</node>
+<node id="il">
+  <data key="d0">28</data>
+</node>
+<node id="automation">
+  <data key="d0">45</data>
+</node>
+<node id="john">
+  <data key="d0">16</data>
+</node>
+<node id="david">
+  <data key="d0">15</data>
+</node>
+<node id="paul">
+  <data key="d0">16</data>
+</node>
+<node id="fantastic">
+  <data key="d0">13</data>
+</node>
+<node id="amazing">
+  <data key="d0">16</data>
+</node>
+<node id="great">
+  <data key="d0">145</data>
+</node>
+<node id="wonderful">
+  <data key="d0">24</data>
+</node>
+<node id="review">
+  <data key="d0">16</data>
+</node>
+<node id="book">
+  <data key="d0">24</data>
+</node>
+<node id="guide">
+  <data key="d0">13</data>
+</node>
+<node id="report">
+  <data key="d0">37</data>
+</node>
+<node id="tip">
+  <data key="d0">17</data>
+</node>
+<node id="check">
+  <data key="d0">42</data>
+</node>
+<node id="trick">
+  <data key="d0">22</data>
+</node>
+<node id="must">
+  <data key="d0">11</data>
+</node>
+<node id="tomorrow">
+  <data key="d0">33</data>
+</node>
+<node id="today">
+  <data key="d0">87</data>
+</node>
+<node id="saturday">
+  <data key="d0">13</data>
+</node>
+<node id="tonight">
+  <data key="d0">79</data>
+</node>
+<node id="december">
+  <data key="d0">15</data>
+</node>
+<node id="win">
+  <data key="d0">28</data>
+</node>
+<node id="enter">
+  <data key="d0">18</data>
+</node>
+<node id="display">
+  <data key="d0">10</data>
+</node>
+<node id="excited">
+  <data key="d0">18</data>
+</node>
+<node id="wait">
+  <data key="d0">11</data>
+</node>
+<node id="ready">
+  <data key="d0">20</data>
+</node>
+<node id="mike">
+  <data key="d0">13</data>
+</node>
+<node id="admission">
+  <data key="d0">11</data>
+</node>
+<node id="profesional">
+  <data key="d0">12</data>
+</node>
+<node id="calling">
+  <data key="d0">22</data>
+</node>
+<node id="call">
+  <data key="d0">19</data>
+</node>
+<node id="acabo">
+  <data key="d0">15</data>
+</node>
+<node id="name">
+  <data key="d0">14</data>
+</node>
+<node id="make">
+  <data key="d0">77</data>
+</node>
+<node id="two">
+  <data key="d0">13</data>
+</node>
+<node id="four">
+  <data key="d0">12</data>
+</node>
+<node id="even">
+  <data key="d0">15</data>
+</node>
+<node id="think">
+  <data key="d0">23</data>
+</node>
+<node id="unicorn">
+  <data key="d0">24</data>
+</node>
+<node id="india">
+  <data key="d0">15</data>
+</node>
+<node id="rip">
+  <data key="d0">10</data>
+</node>
+<node id="カフェ">
+  <data key="d0">17</data>
+</node>
+<node id="ホテヘル">
+  <data key="d0">25</data>
+</node>
+<node id="mais">
+  <data key="d0">17</data>
+</node>
+<node id="old">
+  <data key="d0">15</data>
+</node>
+<node id="little">
+  <data key="d0">20</data>
+</node>
+<node id="pleasure">
+  <data key="d0">10</data>
+</node>
+<node id="thank">
+  <data key="d0">200</data>
+</node>
+<node id="experience">
+  <data key="d0">30</data>
+</node>
+<node id="enjoy">
+  <data key="d0">28</data>
+</node>
+<node id="appreciated">
+  <data key="d0">12</data>
+</node>
+<node id="album">
+  <data key="d0">13</data>
+</node>
+<node id="song">
+  <data key="d0">13</data>
+</node>
+<node id="music">
+  <data key="d0">57</data>
+</node>
+<node id="award">
+  <data key="d0">13</data>
+</node>
+<node id="list">
+  <data key="d0">30</data>
+</node>
+<node id="next">
+  <data key="d0">22</data>
+</node>
+<node id="top">
+  <data key="d0">32</data>
+</node>
+<node id="year">
+  <data key="d0">66</data>
+</node>
+<node id="catch">
+  <data key="d0">10</data>
+</node>
+<node id="blue">
+  <data key="d0">18</data>
+</node>
+<node id="member">
+  <data key="d0">14</data>
+</node>
+<node id="leader">
+  <data key="d0">15</data>
+</node>
+<node id="join">
+  <data key="d0">38</data>
+</node>
+<node id="suis">
+  <data key="d0">10</data>
+</node>
+<node id="richie">
+  <data key="d0">23</data>
+</node>
+<node id="robin">
+  <data key="d0">25</data>
+</node>
+<node id="thx">
+  <data key="d0">13</data>
+</node>
+<node id="summer">
+  <data key="d0">14</data>
+</node>
+<node id="weekend">
+  <data key="d0">28</data>
+</node>
+<node id="website">
+  <data key="d0">15</data>
+</node>
+<node id="site">
+  <data key="d0">13</data>
+</node>
+<node id="bio">
+  <data key="d0">12</data>
+</node>
+<node id="user">
+  <data key="d0">26</data>
+</node>
+<node id="park">
+  <data key="d0">13</data>
+</node>
+<node id="road">
+  <data key="d0">12</data>
+</node>
+<node id="center">
+  <data key="d0">51</data>
+</node>
+<node id="street">
+  <data key="d0">16</data>
+</node>
+<node id="visit">
+  <data key="d0">42</data>
+</node>
+<node id="journey">
+  <data key="d0">25</data>
+</node>
+<node id="style">
+  <data key="d0">10</data>
+</node>
+<node id="linen">
+  <data key="d0">12</data>
+</node>
+<node id="candidate">
+  <data key="d0">10</data>
+</node>
+<node id="demand">
+  <data key="d0">73</data>
+</node>
+<node id="dog">
+  <data key="d0">13</data>
+</node>
+<node id="facebook">
+  <data key="d0">20</data>
+</node>
+<node id="twitter">
+  <data key="d0">15</data>
+</node>
+<node id="generation">
+  <data key="d0">21</data>
+</node>
+<node id="young">
+  <data key="d0">22</data>
+</node>
+<node id="single">
+  <data key="d0">17</data>
+</node>
+<node id="one">
+  <data key="d0">68</data>
+</node>
+<node id="first">
+  <data key="d0">36</data>
+</node>
+<node id="ever">
+  <data key="d0">18</data>
+</node>
+<node id="thing">
+  <data key="d0">24</data>
+</node>
+<node id="could">
+  <data key="d0">19</data>
+</node>
+<node id="brazil">
+  <data key="d0">12</data>
+</node>
+<node id="portugal">
+  <data key="d0">19</data>
+</node>
+<node id="inside">
+  <data key="d0">15</data>
+</node>
+<node id="behind">
+  <data key="d0">11</data>
+</node>
+<node id="blog">
+  <data key="d0">16</data>
+</node>
+<node id="post">
+  <data key="d0">38</data>
+</node>
+<node id="segment">
+  <data key="d0">20</data>
+</node>
+<node id="interview">
+  <data key="d0">15</data>
+</node>
+<node id="si">
+  <data key="d0">12</data>
+</node>
+<node id="maximize">
+  <data key="d0">22</data>
+</node>
+<node id="generate">
+  <data key="d0">24</data>
+</node>
+<node id="museum">
+  <data key="d0">22</data>
+</node>
+<node id="art">
+  <data key="d0">12</data>
+</node>
+<node id="happen">
+  <data key="d0">11</data>
+</node>
+<node id="south">
+  <data key="d0">14</data>
+</node>
+<node id="north">
+  <data key="d0">26</data>
+</node>
+<node id="east">
+  <data key="d0">14</data>
+</node>
+<node id="much">
+  <data key="d0">49</data>
+</node>
+<node id="lot">
+  <data key="d0">11</data>
+</node>
+<node id="really">
+  <data key="d0">35</data>
+</node>
+<node id="lisbon">
+  <data key="d0">10</data>
+</node>
+<node id="earth">
+  <data key="d0">21</data>
+</node>
+<node id="break">
+  <data key="d0">12</data>
+</node>
+<node id="time">
+  <data key="d0">119</data>
+</node>
+<node id="take">
+  <data key="d0">74</data>
+</node>
+<node id="house">
+  <data key="d0">25</data>
+</node>
+<node id="home">
+  <data key="d0">38</data>
+</node>
+<node id="party">
+  <data key="d0">13</data>
+</node>
+<node id="inspire">
+  <data key="d0">10</data>
+</node>
+<node id="almost">
+  <data key="d0">10</data>
+</node>
+<node id="hope">
+  <data key="d0">36</data>
+</node>
+<node id="well">
+  <data key="d0">125</data>
+</node>
+<node id="everyone">
+  <data key="d0">19</data>
+</node>
+<node id="bigdata">
+  <data key="d0">40</data>
+</node>
+<node id="compra">
+  <data key="d0">13</data>
+</node>
+<node id="live">
+  <data key="d0">72</data>
+</node>
+<node id="show">
+  <data key="d0">51</data>
+</node>
+<node id="honor">
+  <data key="d0">10</data>
+</node>
+<node id="airbnb">
+  <data key="d0">38</data>
+</node>
+<node id="apply">
+  <data key="d0">35</data>
+</node>
+<node id="chase">
+  <data key="d0">25</data>
+</node>
+<node id="let">
+  <data key="d0">16</data>
+</node>
+<node id="piece">
+  <data key="d0">16</data>
+</node>
+<node id="another">
+  <data key="d0">10</data>
+</node>
+<node id="social">
+  <data key="d0">42</data>
+</node>
+<node id="marketing">
+  <data key="d0">309</data>
+</node>
+<node id="morning">
+  <data key="d0">39</data>
+</node>
+<node id="night">
+  <data key="d0">35</data>
+</node>
+<node id="good">
+  <data key="d0">99</data>
+</node>
+<node id="sunday">
+  <data key="d0">13</data>
+</node>
+<node id="day">
+  <data key="d0">100</data>
+</node>
+<node id="naple">
+  <data key="d0">11</data>
+</node>
+<node id="newcastle">
+  <data key="d0">14</data>
+</node>
+<node id="sunderland">
+  <data key="d0">10</data>
+</node>
+<node id="con">
+  <data key="d0">17</data>
+</node>
+<node id="find">
+  <data key="d0">27</data>
+</node>
+<node id="je">
+  <data key="d0">58</data>
+</node>
+<node id="pas">
+  <data key="d0">43</data>
+</node>
+<node id="hold">
+  <data key="d0">10</data>
+</node>
+<node id="give">
+  <data key="d0">27</data>
+</node>
+<node id="event">
+  <data key="d0">25</data>
+</node>
+<node id="online">
+  <data key="d0">16</data>
+</node>
+<node id="reason">
+  <data key="d0">30</data>
+</node>
+<node id="rafa">
+  <data key="d0">12</data>
+</node>
+<node id="benitez">
+  <data key="d0">11</data>
+</node>
+<node id="big">
+  <data key="d0">114</data>
+</node>
+<node id="like">
+  <data key="d0">44</data>
+</node>
+<node id="look">
+  <data key="d0">88</data>
+</node>
+<node id="play">
+  <data key="d0">26</data>
+</node>
+<node id="pour">
+  <data key="d0">66</data>
+</node>
+<node id="faire">
+  <data key="d0">13</data>
+</node>
+<node id="et">
+  <data key="d0">48</data>
+</node>
+<node id="avec">
+  <data key="d0">20</data>
+</node>
+<node id="fait">
+  <data key="d0">10</data>
+</node>
+<node id="share">
+  <data key="d0">18</data>
+</node>
+<node id="local">
+  <data key="d0">33</data>
+</node>
+<node id="area">
+  <data key="d0">12</data>
+</node>
+<node id="community">
+  <data key="d0">27</data>
+</node>
+<node id="last">
+  <data key="d0">56</data>
+</node>
+<node id="e">
+  <data key="d0">10</data>
+</node>
+<node id="hear">
+  <data key="d0">25</data>
+</node>
+<node id="tell">
+  <data key="d0">12</data>
+</node>
+<node id="talk">
+  <data key="d0">31</data>
+</node>
+<node id="ça">
+  <data key="d0">39</data>
+</node>
+<node id="job">
+  <data key="d0">54</data>
+</node>
+<node id="manager">
+  <data key="d0">17</data>
+</node>
+<node id="work">
+  <data key="d0">38</data>
+</node>
+<node id="open">
+  <data key="d0">34</data>
+</node>
+<node id="close">
+  <data key="d0">19</data>
+</node>
+<node id="place">
+  <data key="d0">12</data>
+</node>
+<node id="right">
+  <data key="d0">44</data>
+</node>
+<node id="london">
+  <data key="d0">10</data>
+</node>
+<node id="uk">
+  <data key="d0">11</data>
+</node>
+<node id="program">
+  <data key="d0">19</data>
+</node>
+<node id="base">
+  <data key="d0">36</data>
+</node>
+<node id="point">
+  <data key="d0">17</data>
+</node>
+<node id="ensemble">
+  <data key="d0">22</data>
+</node>
+<node id="fly">
+  <data key="d0">13</data>
+</node>
+<node id="record">
+  <data key="d0">30</data>
+</node>
+<node id="business">
+  <data key="d0">19</data>
+</node>
+<node id="même">
+  <data key="d0">16</data>
+</node>
+<node id="meet">
+  <data key="d0">14</data>
+</node>
+<node id="see">
+  <data key="d0">85</data>
+</node>
+<node id="fsp">
+  <data key="d0">22</data>
+</node>
+<node id="alpine">
+  <data key="d0">48</data>
+</node>
+<node id="farmacia">
+  <data key="d0">10</data>
+</node>
+<node id="medium">
+  <data key="d0">11</data>
+</node>
+<node id="los">
+  <data key="d0">24</data>
+</node>
+<node id="streetphotography">
+  <data key="d0">13</data>
+</node>
+<node id="neue">
+  <data key="d0">15</data>
+</node>
+<node id="abm">
+  <data key="d0">29</data>
+</node>
+<node id="week">
+  <data key="d0">44</data>
+</node>
+<node id="support">
+  <data key="d0">23</data>
+</node>
+<node id="help">
+  <data key="d0">29</data>
+</node>
+<node id="retirement">
+  <data key="d0">42</data>
+</node>
+<node id="retire">
+  <data key="d0">34</data>
+</node>
+<node id="leadgeneration">
+  <data key="d0">60</data>
+</node>
+<node id="late">
+  <data key="d0">17</data>
+</node>
+<node id="early">
+  <data key="d0">16</data>
+</node>
+<node id="hello">
+  <data key="d0">19</data>
+</node>
+<node id="welcome">
+  <data key="d0">25</data>
+</node>
+<node id="des">
+  <data key="d0">36</data>
+</node>
+<node id="nice">
+  <data key="d0">25</data>
+</node>
+<node id="а">
+  <data key="d0">20</data>
+</node>
+<node id="debate">
+  <data key="d0">12</data>
+</node>
+<node id="produktion">
+  <data key="d0">14</data>
+</node>
+<node id="start">
+  <data key="d0">24</data>
+</node>
+<node id="month">
+  <data key="d0">17</data>
+</node>
+<node id="solution">
+  <data key="d0">26</data>
+</node>
+<node id="role">
+  <data key="d0">10</data>
+</node>
+<node id="speak">
+  <data key="d0">11</data>
+</node>
+<node id="language">
+  <data key="d0">25</data>
+</node>
+<node id="本日の営業は終了しました">
+  <data key="d0">24</data>
+</node>
+<node id="sponsor">
+  <data key="d0">13</data>
+</node>
+<node id="info">
+  <data key="d0">10</data>
+</node>
+<node id="email">
+  <data key="d0">17</data>
+</node>
+<node id="link">
+  <data key="d0">42</data>
+</node>
+<node id="stop">
+  <data key="d0">43</data>
+</node>
+<node id="keep">
+  <data key="d0">14</data>
+</node>
+<node id="ceo">
+  <data key="d0">27</data>
+</node>
+<node id="abt">
+  <data key="d0">11</data>
+</node>
+<node id="full">
+  <data key="d0">43</data>
+</node>
+<node id="italie">
+  <data key="d0">13</data>
+</node>
+<node id="boy">
+  <data key="d0">12</data>
+</node>
+<node id="diner">
+  <data key="d0">13</data>
+</node>
+<node id="data">
+  <data key="d0">59</data>
+</node>
+<node id="signin">
+  <data key="d0">22</data>
+</node>
+<node id="weather">
+  <data key="d0">22</data>
+</node>
+<node id="difference">
+  <data key="d0">25</data>
+</node>
+<node id="cocina">
+  <data key="d0">11</data>
+</node>
+<node id="с">
+  <data key="d0">16</data>
+</node>
+<node id="и">
+  <data key="d0">40</data>
+</node>
+<node id="в">
+  <data key="d0">31</data>
+</node>
+<node id="на">
+  <data key="d0">39</data>
+</node>
+<node id="мы">
+  <data key="d0">22</data>
+</node>
+<node id="cest">
+  <data key="d0">35</data>
+</node>
+<node id="qui">
+  <data key="d0">17</data>
+</node>
+<node id="こんにちは">
+  <data key="d0">22</data>
+</node>
+<node id="nufc">
+  <data key="d0">16</data>
+</node>
+<node id="safc">
+  <data key="d0">13</data>
+</node>
+<node id="ワッフル">
+  <data key="d0">93</data>
+</node>
+<node id="view">
+  <data key="d0">11</data>
+</node>
+<node id="photo">
+  <data key="d0">52</data>
+</node>
+<node id="est">
+  <data key="d0">16</data>
+</node>
+<node id="available">
+  <data key="d0">25</data>
+</node>
+<node id="free">
+  <data key="d0">17</data>
+</node>
+<node id="bring">
+  <data key="d0">34</data>
+</node>
+<node id="need">
+  <data key="d0">40</data>
+</node>
+<node id="want">
+  <data key="d0">20</data>
+</node>
+<node id="april">
+  <data key="d0">13</data>
+</node>
+<node id="田園都市線">
+  <data key="d0">63</data>
+</node>
+<node id="short">
+  <data key="d0">11</data>
+</node>
+<node id="safe">
+  <data key="d0">22</data>
+</node>
+<node id="stay">
+  <data key="d0">16</data>
+</node>
+<node id="soon">
+  <data key="d0">20</data>
+</node>
+<node id="get">
+  <data key="d0">160</data>
+</node>
+<node id="un">
+  <data key="d0">69</data>
+</node>
+<node id="una">
+  <data key="d0">30</data>
+</node>
+<node id="body">
+  <data key="d0">26</data>
+</node>
+<node id="wind">
+  <data key="d0">11</data>
+</node>
+<node id="predictive">
+  <data key="d0">48</data>
+</node>
+<node id="funnel">
+  <data key="d0">38</data>
+</node>
+<node id="horeca">
+  <data key="d0">10</data>
+</node>
+<node id="デリヘル">
+  <data key="d0">134</data>
+</node>
+<node id="ソープ">
+  <data key="d0">66</data>
+</node>
+<node id="king">
+  <data key="d0">10</data>
+</node>
+<node id="ask">
+  <data key="d0">11</data>
+</node>
+<node id="return">
+  <data key="d0">25</data>
+</node>
+<node id="beautiful">
+  <data key="d0">11</data>
+</node>
+<node id="special">
+  <data key="d0">10</data>
+</node>
+<node id="musician">
+  <data key="d0">11</data>
+</node>
+<node id="quand">
+  <data key="d0">13</data>
+</node>
+<node id="à">
+  <data key="d0">77</data>
+</node>
+<node id="une">
+  <data key="d0">15</data>
+</node>
+<node id="key">
+  <data key="d0">28</data>
+</node>
+<node id="announce">
+  <data key="d0">10</data>
+</node>
+<node id="release">
+  <data key="d0">12</data>
+</node>
+<node id="boss">
+  <data key="d0">14</data>
+</node>
+<node id="via">
+  <data key="d0">49</data>
+</node>
+<node id="change">
+  <data key="d0">25</data>
+</node>
+<node id="news">
+  <data key="d0">26</data>
+</node>
+<node id="expat">
+  <data key="d0">24</data>
+</node>
+<node id="come">
+  <data key="d0">73</data>
+</node>
+<node id="go">
+  <data key="d0">82</data>
+</node>
+<node id="rock">
+  <data key="d0">18</data>
+</node>
+<node id="pop">
+  <data key="d0">10</data>
+</node>
+<node id="band">
+  <data key="d0">14</data>
+</node>
+<node id="code">
+  <data key="d0">34</data>
+</node>
+<node id="use">
+  <data key="d0">48</data>
+</node>
+<node id="modeling">
+  <data key="d0">22</data>
+</node>
+<node id="model">
+  <data key="d0">25</data>
+</node>
+<node id="shop">
+  <data key="d0">40</data>
+</node>
+<node id="buy">
+  <data key="d0">13</data>
+</node>
+<node id="clothing">
+  <data key="d0">10</data>
+</node>
+<node id="giveaway">
+  <data key="d0">24</data>
+</node>
+<node id="boston">
+  <data key="d0">18</data>
+</node>
+<node id="investment">
+  <data key="d0">32</data>
+</node>
+<node id="property">
+  <data key="d0">10</data>
+</node>
+<node id="st">
+  <data key="d0">16</data>
+</node>
+<node id="livechat">
+  <data key="d0">23</data>
+</node>
+<node id="hm">
+  <data key="d0">29</data>
+</node>
+<node id="paris">
+  <data key="d0">18</data>
+</node>
+<node id="diy">
+  <data key="d0">10</data>
+</node>
+<node id="july">
+  <data key="d0">12</data>
+</node>
+<node id="package">
+  <data key="d0">19</data>
+</node>
+<node id="gift">
+  <data key="d0">16</data>
+</node>
+<node id="jarrow">
+  <data key="d0">10</data>
+</node>
+<node id="travel">
+  <data key="d0">42</data>
+</node>
+<node id="trip">
+  <data key="d0">13</data>
+</node>
+<node id="wednesday">
+  <data key="d0">11</data>
+</node>
+<node id="monday">
+  <data key="d0">14</data>
+</node>
+<node id="friday">
+  <data key="d0">20</data>
+</node>
+<node id="это">
+  <data key="d0">25</data>
+</node>
+<node id="automotive">
+  <data key="d0">44</data>
+</node>
+<node id="christmas">
+  <data key="d0">21</data>
+</node>
+<node id="light">
+  <data key="d0">11</data>
+</node>
+<node id="panama">
+  <data key="d0">21</data>
+</node>
+<node id="mexico">
+  <data key="d0">15</data>
+</node>
+<node id="congratulation">
+  <data key="d0">11</data>
+</node>
+<node id="congrat">
+  <data key="d0">19</data>
+</node>
+<node id="question">
+  <data key="d0">12</data>
+</node>
+<node id="create">
+  <data key="d0">13</data>
+</node>
+<node id="fun">
+  <data key="d0">24</data>
+</node>
+<node id="end">
+  <data key="d0">16</data>
+</node>
+<node id="surf">
+  <data key="d0">27</data>
+</node>
+<node id="beach">
+  <data key="d0">13</data>
+</node>
+<node id="nurture">
+  <data key="d0">21</data>
+</node>
+<node id="say">
+  <data key="d0">58</data>
+</node>
+<node id="suffer">
+  <data key="d0">22</data>
+</node>
+<node id="mean">
+  <data key="d0">10</data>
+</node>
+<node id="would">
+  <data key="d0">16</data>
+</node>
+<node id="digital">
+  <data key="d0">88</data>
+</node>
+<node id="les">
+  <data key="d0">44</data>
+</node>
+<node id="la">
+  <data key="d0">212</data>
+</node>
+<node id="every">
+  <data key="d0">13</data>
+</node>
+<node id="las">
+  <data key="d0">24</data>
+</node>
+<node id="yet">
+  <data key="d0">10</data>
+</node>
+<node id="people">
+  <data key="d0">42</data>
+</node>
+<node id="nicaragua">
+  <data key="d0">41</data>
+</node>
+<node id="voyage">
+  <data key="d0">23</data>
+</node>
+<node id="analytic">
+  <data key="d0">106</data>
+</node>
+<node id="neu">
+  <data key="d0">15</data>
+</node>
+<node id="rate">
+  <data key="d0">24</data>
+</node>
+<node id="price">
+  <data key="d0">19</data>
+</node>
+<node id="recent">
+  <data key="d0">14</data>
+</node>
+<node id="always">
+  <data key="d0">22</data>
+</node>
+<node id="aloha">
+  <data key="d0">13</data>
+</node>
+<node id="boom">
+  <data key="d0">24</data>
+</node>
+<node id="evening">
+  <data key="d0">13</data>
+</node>
+<node id="classic">
+  <data key="d0">12</data>
+</node>
+<node id="part">
+  <data key="d0">77</data>
+</node>
+<node id="story">
+  <data key="d0">56</data>
+</node>
+<node id="mark">
+  <data key="d0">10</data>
+</node>
+<node id="mb">
+  <data key="d0">11</data>
+</node>
+<node id="scale">
+  <data key="d0">26</data>
+</node>
+<node id="update">
+  <data key="d0">28</data>
+</node>
+<node id="sur">
+  <data key="d0">26</data>
+</node>
+<node id="pick">
+  <data key="d0">173</data>
+</node>
+<node id="ii">
+  <data key="d0">21</data>
+</node>
+<node id="tour">
+  <data key="d0">55</data>
+</node>
+<node id="vous">
+  <data key="d0">15</data>
+</node>
+<node id="police">
+  <data key="d0">18</data>
+</node>
+<node id="telemarketing">
+  <data key="d0">27</data>
+</node>
+<node id="many">
+  <data key="d0">13</data>
+</node>
+<node id="city">
+  <data key="d0">19</data>
+</node>
+<node id="also">
+  <data key="d0">10</data>
+</node>
+<node id="studio">
+  <data key="d0">10</data>
+</node>
+<node id="très">
+  <data key="d0">12</data>
+</node>
+<node id="death">
+  <data key="d0">33</data>
+</node>
+<node id="interface">
+  <data key="d0">22</data>
+</node>
+<node id="lead">
+  <data key="d0">117</data>
+</node>
+<node id="click">
+  <data key="d0">15</data>
+</node>
+<node id="trailer">
+  <data key="d0">11</data>
+</node>
+<node id="video">
+  <data key="d0">56</data>
+</node>
+<node id="education">
+  <data key="d0">14</data>
+</node>
+<node id="festival">
+  <data key="d0">10</data>
+</node>
+<node id="hard">
+  <data key="d0">14</data>
+</node>
+<node id="cumbria">
+  <data key="d0">10</data>
+</node>
+<node id="malibu">
+  <data key="d0">10</data>
+</node>
+<node id="score">
+  <data key="d0">22</data>
+</node>
+<node id="scoring">
+  <data key="d0">23</data>
+</node>
+<node id="club">
+  <data key="d0">30</data>
+</node>
+<node id="pm">
+  <data key="d0">33</data>
+</node>
+<node id="forward">
+  <data key="d0">14</data>
+</node>
+<node id="ahead">
+  <data key="d0">10</data>
+</node>
+<node id="italia">
+  <data key="d0">15</data>
+</node>
+<node id="sure">
+  <data key="d0">11</data>
+</node>
+<node id="お知らせ">
+  <data key="d0">19</data>
+</node>
+<node id="strategic">
+  <data key="d0">25</data>
+</node>
+<node id="set">
+  <data key="d0">17</data>
+</node>
+<node id="fantasy">
+  <data key="d0">23</data>
+</node>
+<node id="nigeria">
+  <data key="d0">10</data>
+</node>
+<node id="harlow">
+  <data key="d0">16</data>
+</node>
+<node id="drop">
+  <data key="d0">15</data>
+</node>
+<node id="perspective">
+  <data key="d0">26</data>
+</node>
+<node id="chance">
+  <data key="d0">15</data>
+</node>
+<node id="project">
+  <data key="d0">12</data>
+</node>
+<node id="search">
+  <data key="d0">25</data>
+</node>
+<node id="plus">
+  <data key="d0">14</data>
+</node>
+<node id="feature">
+  <data key="d0">10</data>
+</node>
+<node id="plan">
+  <data key="d0">21</data>
+</node>
+<node id="tu">
+  <data key="d0">21</data>
+</node>
+<node id="discover">
+  <data key="d0">13</data>
+</node>
+<node id="kotzen">
+  <data key="d0">22</data>
+</node>
+<node id="fan">
+  <data key="d0">19</data>
+</node>
+<node id="source">
+  <data key="d0">25</data>
+</node>
+<node id="result">
+  <data key="d0">47</data>
+</node>
+<node id="man">
+  <data key="d0">24</data>
+</node>
+<node id="natural">
+  <data key="d0">10</data>
+</node>
+<node id="vimeo">
+  <data key="d0">16</data>
+</node>
+<node id="receive">
+  <data key="d0">10</data>
+</node>
+<node id="favorite">
+  <data key="d0">11</data>
+</node>
+<node id="stack">
+  <data key="d0">23</data>
+</node>
+<node id="agency">
+  <data key="d0">23</data>
+</node>
+<node id="primary">
+  <data key="d0">15</data>
+</node>
+<node id="school">
+  <data key="d0">65</data>
+</node>
+<node id="care">
+  <data key="d0">10</data>
+</node>
+<node id="rt">
+  <data key="d0">42</data>
+</node>
+<node id="de">
+  <data key="d0">287</data>
+</node>
+<node id="en">
+  <data key="d0">121</data>
+</node>
+<node id="por">
+  <data key="d0">20</data>
+</node>
+<node id="merci">
+  <data key="d0">21</data>
+</node>
+<node id="international">
+  <data key="d0">14</data>
+</node>
+<node id="usa">
+  <data key="d0">12</data>
+</node>
+<node id="america">
+  <data key="d0">10</data>
+</node>
+<node id="ago">
+  <data key="d0">10</data>
+</node>
+<node id="still">
+  <data key="d0">22</data>
+</node>
+<node id="issue">
+  <data key="d0">30</data>
+</node>
+<node id="problem">
+  <data key="d0">91</data>
+</node>
+<node id="feel">
+  <data key="d0">11</data>
+</node>
+<node id="child">
+  <data key="d0">25</data>
+</node>
+<node id="本日もありがとうございました">
+  <data key="d0">22</data>
+</node>
+<node id="belize">
+  <data key="d0">21</data>
+</node>
+<node id="не">
+  <data key="d0">33</data>
+</node>
+<node id="conversion">
+  <data key="d0">29</data>
+</node>
+<node id="lovell">
+  <data key="d0">16</data>
+</node>
+<node id="tout">
+  <data key="d0">15</data>
+</node>
+<node id="rainbow">
+  <data key="d0">24</data>
+</node>
+<node id="desde">
+  <data key="d0">11</data>
+</node>
+<node id="car">
+  <data key="d0">32</data>
+</node>
+<node id="student">
+  <data key="d0">14</data>
+</node>
+<node id="die">
+  <data key="d0">17</data>
+</node>
+<node id="fire">
+  <data key="d0">10</data>
+</node>
+<node id="mr">
+  <data key="d0">13</data>
+</node>
+<node id="womenswear">
+  <data key="d0">10</data>
+</node>
+<node id="celebrate">
+  <data key="d0">26</data>
+</node>
+<node id="happy">
+  <data key="d0">57</data>
+</node>
+<node id="conveyance">
+  <data key="d0">14</data>
+</node>
+<node id="recruit">
+  <data key="d0">10</data>
+</node>
+<node id="есть">
+  <data key="d0">14</data>
+</node>
+<node id="будет">
+  <data key="d0">14</data>
+</node>
+<node id="ab">
+  <data key="d0">19</data>
+</node>
+<node id="spend">
+  <data key="d0">10</data>
+</node>
+<node id="high">
+  <data key="d0">10</data>
+</node>
+<node id="simple">
+  <data key="d0">21</data>
+</node>
+<node id="office">
+  <data key="d0">21</data>
+</node>
+<node id="staff">
+  <data key="d0">16</data>
+</node>
+<node id="retweet">
+  <data key="d0">18</data>
+</node>
+<node id="transactional">
+  <data key="d0">19</data>
+</node>
+<node id="jolla">
+  <data key="d0">50</data>
+</node>
+<node id="ご来店お待ちしています">
+  <data key="d0">11</data>
+</node>
+<node id="その他">
+  <data key="d0">58</data>
+</node>
+<node id="capability">
+  <data key="d0">23</data>
+</node>
+<node id="head">
+  <data key="d0">20</data>
+</node>
+<node id="ne">
+  <data key="d0">13</data>
+</node>
+<node id="insanity">
+  <data key="d0">22</data>
+</node>
+<node id="tele">
+  <data key="d0">42</data>
+</node>
+<node id="buyer">
+  <data key="d0">42</data>
+</node>
+<node id="position">
+  <data key="d0">10</data>
+</node>
+<node id="film">
+  <data key="d0">12</data>
+</node>
+<node id="ハンドメイド">
+  <data key="d0">88</data>
+</node>
+<node id="mays">
+  <data key="d0">12</data>
+</node>
+<node id="tune">
+  <data key="d0">12</data>
+</node>
+<node id="radio">
+  <data key="d0">10</data>
+</node>
+<node id="wear">
+  <data key="d0">15</data>
+</node>
+<node id="bien">
+  <data key="d0">15</data>
+</node>
+<node id="accurate">
+  <data key="d0">22</data>
+</node>
+<node id="berkshire">
+  <data key="d0">27</data>
+</node>
+<node id="team">
+  <data key="d0">45</data>
+</node>
+<node id="di">
+  <data key="d0">10</data>
+</node>
+<node id="datum">
+  <data key="d0">213</data>
+</node>
+<node id="san">
+  <data key="d0">18</data>
+</node>
+<node id="market">
+  <data key="d0">51</data>
+</node>
+<node id="chat">
+  <data key="d0">35</data>
+</node>
+<node id="qualified">
+  <data key="d0">22</data>
+</node>
+<node id="deliver">
+  <data key="d0">23</data>
+</node>
+<node id="age">
+  <data key="d0">10</data>
+</node>
+<node id="final">
+  <data key="d0">10</data>
+</node>
+<node id="hour">
+  <data key="d0">15</data>
+</node>
+<node id="vip">
+  <data key="d0">14</data>
+</node>
+<node id="fui">
+  <data key="d0">22</data>
+</node>
+<node id="try">
+  <data key="d0">15</data>
+</node>
+<node id="par">
+  <data key="d0">10</data>
+</node>
+<node id="connect">
+  <data key="d0">50</data>
+</node>
+<node id="account">
+  <data key="d0">37</data>
+</node>
+<node id="may">
+  <data key="d0">43</data>
+</node>
+<node id="malaysia">
+  <data key="d0">26</data>
+</node>
+<node id="amp">
+  <data key="d0">182</data>
+</node>
+<node id="read">
+  <data key="d0">63</data>
+</node>
+<node id="watch">
+  <data key="d0">20</data>
+</node>
+<node id="detail">
+  <data key="d0">12</data>
+</node>
+<node id="date">
+  <data key="d0">20</data>
+</node>
+<node id="whaley">
+  <data key="d0">26</data>
+</node>
+<node id="segmentation">
+  <data key="d0">20</data>
+</node>
+<node id="birthday">
+  <data key="d0">19</data>
+</node>
+<node id="hathaway">
+  <data key="d0">27</data>
+</node>
+<node id="son">
+  <data key="d0">12</data>
+</node>
+<node id="w">
+  <data key="d0">23</data>
+</node>
+<node id="salt">
+  <data key="d0">15</data>
+</node>
+<node id="challenge">
+  <data key="d0">11</data>
+</node>
+<node id="per">
+  <data key="d0">14</data>
+</node>
+<node id="move">
+  <data key="d0">16</data>
+</node>
+<node id="consider">
+  <data key="d0">26</data>
+</node>
+<node id="sale">
+  <data key="d0">66</data>
+</node>
+<node id="new">
+  <data key="d0">172</data>
+</node>
+<node id="découvrez">
+  <data key="d0">10</data>
+</node>
+<node id="roi">
+  <data key="d0">61</data>
+</node>
+<node id="woman">
+  <data key="d0">31</data>
+</node>
+<node id="cute">
+  <data key="d0">23</data>
+</node>
+<node id="雑貨">
+  <data key="d0">40</data>
+</node>
+<node id="recruitment">
+  <data key="d0">26</data>
+</node>
+<node id="choice">
+  <data key="d0">10</data>
+</node>
+<node id="jai">
+  <data key="d0">12</data>
+</node>
+<node id="cro">
+  <data key="d0">15</data>
+</node>
+<node id="insight">
+  <data key="d0">58</data>
+</node>
+<node id="職種">
+  <data key="d0">230</data>
+</node>
+<node id="conversation">
+  <data key="d0">57</data>
+</node>
+<node id="v">
+  <data key="d0">22</data>
+</node>
+<node id="para">
+  <data key="d0">25</data>
+</node>
+<node id="due">
+  <data key="d0">10</data>
+</node>
+<edge source="el" target="del">
+  <data key="d1">0.8062856197357178</data>
+</edge>
+<edge source="el" target="al">
+  <data key="d1">0.7512049674987793</data>
+</edge>
+<edge source="el" target="un">
+  <data key="d1">0.6879140138626099</data>
+</edge>
+<edge source="el" target="con">
+  <data key="d1">0.7168624401092529</data>
+</edge>
+<edge source="el" target="en">
+  <data key="d1">0.6832074522972107</data>
+</edge>
+<edge source="del" target="al">
+  <data key="d1">0.7394153475761414</data>
+</edge>
+<edge source="del" target="con">
+  <data key="d1">0.6718542575836182</data>
+</edge>
+<edge source="al" target="con">
+  <data key="d1">0.5943297147750854</data>
+</edge>
+<edge source="miss" target="love">
+  <data key="d1">0.7385667562484741</data>
+</edge>
+<edge source="miss" target="know">
+  <data key="d1">0.6939976811408997</data>
+</edge>
+<edge source="love" target="much">
+  <data key="d1">0.7890045642852783</data>
+</edge>
+<edge source="love" target="always">
+  <data key="d1">0.7601684331893921</data>
+</edge>
+<edge source="love" target="know">
+  <data key="d1">0.7598055005073547</data>
+</edge>
+<edge source="know" target="even">
+  <data key="d1">0.8095115423202515</data>
+</edge>
+<edge source="know" target="find">
+  <data key="d1">0.7718963623046875</data>
+</edge>
+<edge source="know" target="want">
+  <data key="d1">0.8018115758895874</data>
+</edge>
+<edge source="know" target="tell">
+  <data key="d1">0.8753526210784912</data>
+</edge>
+<edge source="know" target="mean">
+  <data key="d1">0.8542150855064392</data>
+</edge>
+<edge source="know" target="really">
+  <data key="d1">0.8772875070571899</data>
+</edge>
+<edge source="know" target="sure">
+  <data key="d1">0.8303699493408203</data>
+</edge>
+<edge source="know" target="care">
+  <data key="d1">0.7131247520446777</data>
+</edge>
+<edge source="know" target="say">
+  <data key="d1">0.8354924321174622</data>
+</edge>
+<edge source="know" target="talk">
+  <data key="d1">0.7937183976173401</data>
+</edge>
+<edge source="know" target="see">
+  <data key="d1">0.8451012372970581</data>
+</edge>
+<edge source="know" target="think">
+  <data key="d1">0.9220061898231506</data>
+</edge>
+<edge source="follow" target="back">
+  <data key="d1">0.7505326867103577</data>
+</edge>
+<edge source="follow" target="please">
+  <data key="d1">0.7249575257301331</data>
+</edge>
+<edge source="follow" target="retweet">
+  <data key="d1">0.6948452591896057</data>
+</edge>
+<edge source="back" target="go">
+  <data key="d1">0.7252070307731628</data>
+</edge>
+<edge source="back" target="team">
+  <data key="d1">0.6789221167564392</data>
+</edge>
+<edge source="please" target="help">
+  <data key="d1">0.7812257409095764</data>
+</edge>
+<edge source="au" target="du">
+  <data key="d1">0.7337706685066223</data>
+</edge>
+<edge source="au" target="mon">
+  <data key="d1">0.7164353132247925</data>
+</edge>
+<edge source="au" target="ce">
+  <data key="d1">0.7012531757354736</data>
+</edge>
+<edge source="du" target="des">
+  <data key="d1">0.6780680418014526</data>
+</edge>
+<edge source="du" target="et">
+  <data key="d1">0.6588132381439209</data>
+</edge>
+<edge source="du" target="pour">
+  <data key="d1">0.6376093029975891</data>
+</edge>
+<edge source="mon" target="est">
+  <data key="d1">0.7474242448806763</data>
+</edge>
+<edge source="ce" target="qui">
+  <data key="d1">0.7518132925033569</data>
+</edge>
+<edge source="ce" target="ça">
+  <data key="d1">0.7230463624000549</data>
+</edge>
+<edge source="ce" target="fait">
+  <data key="d1">0.716539740562439</data>
+</edge>
+<edge source="ce" target="ne">
+  <data key="d1">0.5954626798629761</data>
+</edge>
+<edge source="family" target="friend">
+  <data key="d1">0.7127931118011475</data>
+</edge>
+<edge source="еще" target="что">
+  <data key="d1">0.7242852449417114</data>
+</edge>
+<edge source="еще" target="есть">
+  <data key="d1">0.6686503887176514</data>
+</edge>
+<edge source="что" target="а">
+  <data key="d1">0.7783008813858032</data>
+</edge>
+<edge source="что" target="с">
+  <data key="d1">0.6641048789024353</data>
+</edge>
+<edge source="что" target="это">
+  <data key="d1">0.7994694709777832</data>
+</edge>
+<edge source="что" target="и">
+  <data key="d1">0.7507898807525635</data>
+</edge>
+<edge source="что" target="не">
+  <data key="d1">0.7732599973678589</data>
+</edge>
+<edge source="world" target="life">
+  <data key="d1">0.7134823799133301</data>
+</edge>
+<edge source="world" target="generation">
+  <data key="d1">0.5623509287834167</data>
+</edge>
+<edge source="world" target="earth">
+  <data key="d1">0.6942176818847656</data>
+</edge>
+<edge source="world" target="tour">
+  <data key="d1">0.6335014700889587</data>
+</edge>
+<edge source="world" target="america">
+  <data key="d1">0.6672361493110657</data>
+</edge>
+<edge source="life" target="experience">
+  <data key="d1">0.6546797752380371</data>
+</edge>
+<edge source="life" target="journey">
+  <data key="d1">0.6144527196884155</data>
+</edge>
+<edge source="life" target="thing">
+  <data key="d1">0.7661666870117188</data>
+</edge>
+<edge source="life" target="story">
+  <data key="d1">0.7082042694091797</data>
+</edge>
+<edge source="approach" target="strategy">
+  <data key="d1">0.6071263551712036</data>
+</edge>
+<edge source="approach" target="way">
+  <data key="d1">0.5812095403671265</data>
+</edge>
+<edge source="strategy" target="strategic">
+  <data key="d1">0.6416861414909363</data>
+</edge>
+<edge source="strategy" target="marketing">
+  <data key="d1">0.6963827610015869</data>
+</edge>
+<edge source="strategy" target="insight">
+  <data key="d1">0.4882354736328125</data>
+</edge>
+<edge source="way" target="place">
+  <data key="d1">0.7202641367912292</data>
+</edge>
+<edge source="way" target="take">
+  <data key="d1">0.8055440187454224</data>
+</edge>
+<edge source="way" target="thing">
+  <data key="d1">0.8202958106994629</data>
+</edge>
+<edge source="way" target="right">
+  <data key="d1">0.8183358907699585</data>
+</edge>
+<edge source="way" target="around">
+  <data key="d1">0.7670305371284485</data>
+</edge>
+<edge source="way" target="move">
+  <data key="d1">0.6837469935417175</data>
+</edge>
+<edge source="across" target="around">
+  <data key="d1">0.7506331205368042</data>
+</edge>
+<edge source="shirt" target="tshirt">
+  <data key="d1">0.7863143682479858</data>
+</edge>
+<edge source="smart" target="cool">
+  <data key="d1">0.62264484167099</data>
+</edge>
+<edge source="cool" target="nice">
+  <data key="d1">0.7622681856155396</data>
+</edge>
+<edge source="cool" target="simple">
+  <data key="d1">0.5779879689216614</data>
+</edge>
+<edge source="abroad" target="overseas">
+  <data key="d1">0.6272115111351013</data>
+</edge>
+<edge source="abroad" target="belize">
+  <data key="d1">0.457605242729187</data>
+</edge>
+<edge source="napoli" target="italia">
+  <data key="d1">0.660539984703064</data>
+</edge>
+<edge source="se" target="que">
+  <data key="d1">0.7301827669143677</data>
+</edge>
+<edge source="se" target="va">
+  <data key="d1">0.6898274421691895</data>
+</edge>
+<edge source="se" target="le">
+  <data key="d1">0.6663041710853577</data>
+</edge>
+<edge source="que" target="le">
+  <data key="d1">0.6902614831924438</data>
+</edge>
+<edge source="que" target="de">
+  <data key="d1">0.7118056416511536</data>
+</edge>
+<edge source="que" target="la">
+  <data key="d1">0.6948325634002686</data>
+</edge>
+<edge source="va" target="si">
+  <data key="d1">0.6629725694656372</data>
+</edge>
+<edge source="va" target="le">
+  <data key="d1">0.7035405039787292</data>
+</edge>
+<edge source="va" target="bien">
+  <data key="d1">0.7501649856567383</data>
+</edge>
+<edge source="va" target="sale">
+  <data key="d1">0.5982254147529602</data>
+</edge>
+<edge source="le" target="un">
+  <data key="d1">0.6867572665214539</data>
+</edge>
+<edge source="le" target="les">
+  <data key="d1">0.7748450636863708</data>
+</edge>
+<edge source="le" target="la">
+  <data key="d1">0.7039557099342346</data>
+</edge>
+<edge source="non" target="il">
+  <data key="d1">0.758547306060791</data>
+</edge>
+<edge source="non" target="per">
+  <data key="d1">0.6247171759605408</data>
+</edge>
+<edge source="il" target="qui">
+  <data key="d1">0.7333928346633911</data>
+</edge>
+<edge source="john" target="david">
+  <data key="d1">0.7235609889030457</data>
+</edge>
+<edge source="john" target="paul">
+  <data key="d1">0.7060414552688599</data>
+</edge>
+<edge source="john" target="mark">
+  <data key="d1">0.6379192471504211</data>
+</edge>
+<edge source="paul" target="rip">
+  <data key="d1">0.6309236288070679</data>
+</edge>
+<edge source="fantastic" target="amazing">
+  <data key="d1">0.8351445198059082</data>
+</edge>
+<edge source="fantastic" target="great">
+  <data key="d1">0.8157326579093933</data>
+</edge>
+<edge source="fantastic" target="wonderful">
+  <data key="d1">0.7977318167686462</data>
+</edge>
+<edge source="amazing" target="beautiful">
+  <data key="d1">0.8066423535346985</data>
+</edge>
+<edge source="amazing" target="wonderful">
+  <data key="d1">0.8102607727050781</data>
+</edge>
+<edge source="amazing" target="great">
+  <data key="d1">0.8584417700767517</data>
+</edge>
+<edge source="great" target="pleasure">
+  <data key="d1">0.5863320827484131</data>
+</edge>
+<edge source="great" target="experience">
+  <data key="d1">0.6808196306228638</data>
+</edge>
+<edge source="great" target="nice">
+  <data key="d1">0.7603093981742859</data>
+</edge>
+<edge source="great" target="special">
+  <data key="d1">0.6559575200080872</data>
+</edge>
+<edge source="great" target="fun">
+  <data key="d1">0.7329562306404114</data>
+</edge>
+<edge source="great" target="good">
+  <data key="d1">0.8672515749931335</data>
+</edge>
+<edge source="great" target="forward">
+  <data key="d1">0.6834086775779724</data>
+</edge>
+<edge source="great" target="enjoy">
+  <data key="d1">0.7155120968818665</data>
+</edge>
+<edge source="great" target="wonderful">
+  <data key="d1">0.8325524926185608</data>
+</edge>
+<edge source="wonderful" target="beautiful">
+  <data key="d1">0.797416627407074</data>
+</edge>
+<edge source="review" target="book">
+  <data key="d1">0.7215535640716553</data>
+</edge>
+<edge source="review" target="guide">
+  <data key="d1">0.6761221885681152</data>
+</edge>
+<edge source="review" target="report">
+  <data key="d1">0.6561501026153564</data>
+</edge>
+<edge source="book" target="guide">
+  <data key="d1">0.6348456144332886</data>
+</edge>
+<edge source="book" target="read">
+  <data key="d1">0.7673868536949158</data>
+</edge>
+<edge source="book" target="story">
+  <data key="d1">0.6920099854469299</data>
+</edge>
+<edge source="guide" target="travel">
+  <data key="d1">0.6148993372917175</data>
+</edge>
+<edge source="report" target="data">
+  <data key="d1">0.6043370962142944</data>
+</edge>
+<edge source="report" target="news">
+  <data key="d1">0.6690350770950317</data>
+</edge>
+<edge source="report" target="recent">
+  <data key="d1">0.6121007800102234</data>
+</edge>
+<edge source="report" target="update">
+  <data key="d1">0.6585146188735962</data>
+</edge>
+<edge source="report" target="post">
+  <data key="d1">0.6654888987541199</data>
+</edge>
+<edge source="tip" target="check">
+  <data key="d1">0.5730604529380798</data>
+</edge>
+<edge source="check" target="list">
+  <data key="d1">0.6783024072647095</data>
+</edge>
+<edge source="check" target="website">
+  <data key="d1">0.7040472030639648</data>
+</edge>
+<edge source="check" target="visit">
+  <data key="d1">0.6977247595787048</data>
+</edge>
+<edge source="check" target="join">
+  <data key="d1">0.6532599925994873</data>
+</edge>
+<edge source="check" target="available">
+  <data key="d1">0.6480522155761719</data>
+</edge>
+<edge source="check" target="free">
+  <data key="d1">0.6844329833984375</data>
+</edge>
+<edge source="check" target="post">
+  <data key="d1">0.7072633504867554</data>
+</edge>
+<edge source="check" target="click">
+  <data key="d1">0.6366633772850037</data>
+</edge>
+<edge source="check" target="search">
+  <data key="d1">0.6062002182006836</data>
+</edge>
+<edge source="check" target="link">
+  <data key="d1">0.6621154546737671</data>
+</edge>
+<edge source="check" target="share">
+  <data key="d1">0.674126923084259</data>
+</edge>
+<edge source="trick" target="must">
+  <data key="d1">0.5252559185028076</data>
+</edge>
+<edge source="must" target="would">
+  <data key="d1">0.8060399293899536</data>
+</edge>
+<edge source="tomorrow" target="today">
+  <data key="d1">0.8587415814399719</data>
+</edge>
+<edge source="tomorrow" target="saturday">
+  <data key="d1">0.8479888439178467</data>
+</edge>
+<edge source="tomorrow" target="tonight">
+  <data key="d1">0.8434563279151917</data>
+</edge>
+<edge source="tomorrow" target="next">
+  <data key="d1">0.8164725303649902</data>
+</edge>
+<edge source="tomorrow" target="soon">
+  <data key="d1">0.780527651309967</data>
+</edge>
+<edge source="tomorrow" target="early">
+  <data key="d1">0.7706027030944824</data>
+</edge>
+<edge source="tomorrow" target="school">
+  <data key="d1">0.7286202311515808</data>
+</edge>
+<edge source="today" target="day">
+  <data key="d1">0.8191546201705933</data>
+</edge>
+<edge source="today" target="yet">
+  <data key="d1">0.8024312853813171</data>
+</edge>
+<edge source="today" target="tonight">
+  <data key="d1">0.8016412258148193</data>
+</edge>
+<edge source="today" target="work">
+  <data key="d1">0.788050651550293</data>
+</edge>
+<edge source="today" target="early">
+  <data key="d1">0.7443833947181702</data>
+</edge>
+<edge source="saturday" target="wednesday">
+  <data key="d1">0.8734697699546814</data>
+</edge>
+<edge source="saturday" target="weekend">
+  <data key="d1">0.7943624258041382</data>
+</edge>
+<edge source="saturday" target="evening">
+  <data key="d1">0.777246356010437</data>
+</edge>
+<edge source="saturday" target="tonight">
+  <data key="d1">0.8345476388931274</data>
+</edge>
+<edge source="saturday" target="night">
+  <data key="d1">0.8094554543495178</data>
+</edge>
+<edge source="saturday" target="party">
+  <data key="d1">0.7117192149162292</data>
+</edge>
+<edge source="saturday" target="friday">
+  <data key="d1">0.9181916117668152</data>
+</edge>
+<edge source="saturday" target="sunday">
+  <data key="d1">0.9068158268928528</data>
+</edge>
+<edge source="saturday" target="monday">
+  <data key="d1">0.8627224564552307</data>
+</edge>
+<edge source="tonight" target="night">
+  <data key="d1">0.8481391668319702</data>
+</edge>
+<edge source="tonight" target="show">
+  <data key="d1">0.6853153705596924</data>
+</edge>
+<edge source="win" target="enter">
+  <data key="d1">0.6963211894035339</data>
+</edge>
+<edge source="win" target="chance">
+  <data key="d1">0.6943570375442505</data>
+</edge>
+<edge source="enter" target="giveaway">
+  <data key="d1">0.756739616394043</data>
+</edge>
+<edge source="enter" target="chance">
+  <data key="d1">0.634192705154419</data>
+</edge>
+<edge source="excited" target="wait">
+  <data key="d1">0.7946025729179382</data>
+</edge>
+<edge source="excited" target="ready">
+  <data key="d1">0.7377617359161377</data>
+</edge>
+<edge source="wait" target="see">
+  <data key="d1">0.8190819621086121</data>
+</edge>
+<edge source="wait" target="next">
+  <data key="d1">0.7960774302482605</data>
+</edge>
+<edge source="wait" target="ready">
+  <data key="d1">0.7699169516563416</data>
+</edge>
+<edge source="wait" target="watch">
+  <data key="d1">0.7259024977684021</data>
+</edge>
+<edge source="wait" target="date">
+  <data key="d1">0.6422164440155029</data>
+</edge>
+<edge source="ready" target="full">
+  <data key="d1">0.6105400919914246</data>
+</edge>
+<edge source="ready" target="get">
+  <data key="d1">0.7345553636550903</data>
+</edge>
+<edge source="mike" target="mark">
+  <data key="d1">0.6469325423240662</data>
+</edge>
+<edge source="calling" target="call">
+  <data key="d1">0.7664766907691956</data>
+</edge>
+<edge source="call" target="tell">
+  <data key="d1">0.7606408596038818</data>
+</edge>
+<edge source="call" target="talk">
+  <data key="d1">0.734807014465332</data>
+</edge>
+<edge source="two" target="four">
+  <data key="d1">0.8956778645515442</data>
+</edge>
+<edge source="two" target="one">
+  <data key="d1">0.783723771572113</data>
+</edge>
+<edge source="even" target="think">
+  <data key="d1">0.8186591863632202</data>
+</edge>
+<edge source="think" target="mean">
+  <data key="d1">0.8403358459472656</data>
+</edge>
+<edge source="think" target="would">
+  <data key="d1">0.8655937910079956</data>
+</edge>
+<edge source="think" target="really">
+  <data key="d1">0.9001956582069397</data>
+</edge>
+<edge source="think" target="sure">
+  <data key="d1">0.8316941857337952</data>
+</edge>
+<edge source="think" target="still">
+  <data key="d1">0.842616617679596</data>
+</edge>
+<edge source="think" target="feel">
+  <data key="d1">0.791779637336731</data>
+</edge>
+<edge source="think" target="say">
+  <data key="d1">0.8243620991706848</data>
+</edge>
+<edge source="think" target="see">
+  <data key="d1">0.8280935287475586</data>
+</edge>
+<edge source="think" target="look">
+  <data key="d1">0.7918826937675476</data>
+</edge>
+<edge source="old" target="little">
+  <data key="d1">0.7106851935386658</data>
+</edge>
+<edge source="old" target="young">
+  <data key="d1">0.6450384855270386</data>
+</edge>
+<edge source="old" target="age">
+  <data key="d1">0.623202383518219</data>
+</edge>
+<edge source="little" target="one">
+  <data key="d1">0.7302709817886353</data>
+</edge>
+<edge source="little" target="big">
+  <data key="d1">0.7190555930137634</data>
+</edge>
+<edge source="pleasure" target="thank">
+  <data key="d1">0.5942578911781311</data>
+</edge>
+<edge source="pleasure" target="experience">
+  <data key="d1">0.5917781591415405</data>
+</edge>
+<edge source="pleasure" target="enjoy">
+  <data key="d1">0.5813998579978943</data>
+</edge>
+<edge source="thank" target="thx">
+  <data key="d1">0.7806559205055237</data>
+</edge>
+<edge source="thank" target="hope">
+  <data key="d1">0.7646152973175049</data>
+</edge>
+<edge source="thank" target="welcome">
+  <data key="d1">0.7299166321754456</data>
+</edge>
+<edge source="experience" target="journey">
+  <data key="d1">0.6466463208198547</data>
+</edge>
+<edge source="enjoy" target="fun">
+  <data key="d1">0.7324804067611694</data>
+</edge>
+<edge source="enjoy" target="day">
+  <data key="d1">0.6987268328666687</data>
+</edge>
+<edge source="enjoy" target="good">
+  <data key="d1">0.6931843161582947</data>
+</edge>
+<edge source="album" target="song">
+  <data key="d1">0.7186251282691956</data>
+</edge>
+<edge source="album" target="music">
+  <data key="d1">0.6802947521209717</data>
+</edge>
+<edge source="album" target="single">
+  <data key="d1">0.6719781756401062</data>
+</edge>
+<edge source="album" target="tour">
+  <data key="d1">0.6466917395591736</data>
+</edge>
+<edge source="album" target="release">
+  <data key="d1">0.6688398718833923</data>
+</edge>
+<edge source="song" target="music">
+  <data key="d1">0.7471687197685242</data>
+</edge>
+<edge source="song" target="band">
+  <data key="d1">0.6152093410491943</data>
+</edge>
+<edge source="music" target="studio">
+  <data key="d1">0.6118049621582031</data>
+</edge>
+<edge source="music" target="tune">
+  <data key="d1">0.6554699540138245</data>
+</edge>
+<edge source="music" target="radio">
+  <data key="d1">0.6813288927078247</data>
+</edge>
+<edge source="music" target="pop">
+  <data key="d1">0.6593460440635681</data>
+</edge>
+<edge source="list" target="next">
+  <data key="d1">0.6490983366966248</data>
+</edge>
+<edge source="list" target="top">
+  <data key="d1">0.648438036441803</data>
+</edge>
+<edge source="list" target="year">
+  <data key="d1">0.6474121809005737</data>
+</edge>
+<edge source="next" target="meet">
+  <data key="d1">0.7008074522018433</data>
+</edge>
+<edge source="next" target="first">
+  <data key="d1">0.8295425176620483</data>
+</edge>
+<edge source="next" target="week">
+  <data key="d1">0.8177300095558167</data>
+</edge>
+<edge source="next" target="last">
+  <data key="d1">0.8092536330223083</data>
+</edge>
+<edge source="next" target="start">
+  <data key="d1">0.75087571144104</data>
+</edge>
+<edge source="next" target="part">
+  <data key="d1">0.7042384147644043</data>
+</edge>
+<edge source="next" target="ahead">
+  <data key="d1">0.689541757106781</data>
+</edge>
+<edge source="next" target="trip">
+  <data key="d1">0.6290640234947205</data>
+</edge>
+<edge source="next" target="year">
+  <data key="d1">0.8064092993736267</data>
+</edge>
+<edge source="next" target="date">
+  <data key="d1">0.6605968475341797</data>
+</edge>
+<edge source="next" target="end">
+  <data key="d1">0.7439795732498169</data>
+</edge>
+<edge source="top" target="base">
+  <data key="d1">0.5411708354949951</data>
+</edge>
+<edge source="top" target="one">
+  <data key="d1">0.6499520540237427</data>
+</edge>
+<edge source="year" target="month">
+  <data key="d1">0.8049964308738708</data>
+</edge>
+<edge source="year" target="last">
+  <data key="d1">0.7985325455665588</data>
+</edge>
+<edge source="catch" target="chase">
+  <data key="d1">0.584398627281189</data>
+</edge>
+<edge source="blue" target="rainbow">
+  <data key="d1">0.6292229890823364</data>
+</edge>
+<edge source="member" target="leader">
+  <data key="d1">0.6478740572929382</data>
+</edge>
+<edge source="member" target="join">
+  <data key="d1">0.6226271986961365</data>
+</edge>
+<edge source="join" target="visit">
+  <data key="d1">0.6657988429069519</data>
+</edge>
+<edge source="join" target="share">
+  <data key="d1">0.6476818919181824</data>
+</edge>
+<edge source="join" target="sponsor">
+  <data key="d1">0.6160247325897217</data>
+</edge>
+<edge source="suis" target="je">
+  <data key="d1">0.7151350975036621</data>
+</edge>
+<edge source="summer" target="weekend">
+  <data key="d1">0.7060141563415527</data>
+</edge>
+<edge source="summer" target="beach">
+  <data key="d1">0.6661158204078674</data>
+</edge>
+<edge source="weekend" target="fun">
+  <data key="d1">0.7253780364990234</data>
+</edge>
+<edge source="weekend" target="week">
+  <data key="d1">0.8290725350379944</data>
+</edge>
+<edge source="weekend" target="sunday">
+  <data key="d1">0.7573368549346924</data>
+</edge>
+<edge source="weekend" target="night">
+  <data key="d1">0.756575882434845</data>
+</edge>
+<edge source="weekend" target="friday">
+  <data key="d1">0.7531419992446899</data>
+</edge>
+<edge source="weekend" target="trip">
+  <data key="d1">0.6130746006965637</data>
+</edge>
+<edge source="website" target="site">
+  <data key="d1">0.76323401927948</data>
+</edge>
+<edge source="website" target="online">
+  <data key="d1">0.6428115367889404</data>
+</edge>
+<edge source="website" target="search">
+  <data key="d1">0.6063719987869263</data>
+</edge>
+<edge source="site" target="online">
+  <data key="d1">0.6085178256034851</data>
+</edge>
+<edge source="site" target="blog">
+  <data key="d1">0.6687675714492798</data>
+</edge>
+<edge source="site" target="link">
+  <data key="d1">0.6570886969566345</data>
+</edge>
+<edge source="bio" target="user">
+  <data key="d1">0.5954047441482544</data>
+</edge>
+<edge source="park" target="road">
+  <data key="d1">0.6606854200363159</data>
+</edge>
+<edge source="park" target="center">
+  <data key="d1">0.6290550231933594</data>
+</edge>
+<edge source="park" target="street">
+  <data key="d1">0.6141880750656128</data>
+</edge>
+<edge source="road" target="street">
+  <data key="d1">0.687991201877594</data>
+</edge>
+<edge source="center" target="community">
+  <data key="d1">0.6333581209182739</data>
+</edge>
+<edge source="center" target="area">
+  <data key="d1">0.6235380172729492</data>
+</edge>
+<edge source="street" target="city">
+  <data key="d1">0.6560945510864258</data>
+</edge>
+<edge source="visit" target="click">
+  <data key="d1">0.5910133123397827</data>
+</edge>
+<edge source="facebook" target="twitter">
+  <data key="d1">0.8568581342697144</data>
+</edge>
+<edge source="twitter" target="chat">
+  <data key="d1">0.6367889046669006</data>
+</edge>
+<edge source="twitter" target="account">
+  <data key="d1">0.67255038022995</data>
+</edge>
+<edge source="generation" target="young">
+  <data key="d1">0.550451934337616</data>
+</edge>
+<edge source="young" target="boy">
+  <data key="d1">0.6937863826751709</data>
+</edge>
+<edge source="single" target="one">
+  <data key="d1">0.6325981020927429</data>
+</edge>
+<edge source="single" target="first">
+  <data key="d1">0.6262710690498352</data>
+</edge>
+<edge source="one" target="piece">
+  <data key="d1">0.6346778273582458</data>
+</edge>
+<edge source="one" target="thing">
+  <data key="d1">0.8045281171798706</data>
+</edge>
+<edge source="one" target="another">
+  <data key="d1">0.7867793440818787</data>
+</edge>
+<edge source="one" target="fan">
+  <data key="d1">0.6157400012016296</data>
+</edge>
+<edge source="first" target="time">
+  <data key="d1">0.7843441367149353</data>
+</edge>
+<edge source="first" target="record">
+  <data key="d1">0.5730748176574707</data>
+</edge>
+<edge source="first" target="last">
+  <data key="d1">0.8567911982536316</data>
+</edge>
+<edge source="first" target="st">
+  <data key="d1">0.7355926632881165</data>
+</edge>
+<edge source="first" target="part">
+  <data key="d1">0.7223638892173767</data>
+</edge>
+<edge source="first" target="set">
+  <data key="d1">0.6505749821662903</data>
+</edge>
+<edge source="first" target="another">
+  <data key="d1">0.8070008158683777</data>
+</edge>
+<edge source="first" target="date">
+  <data key="d1">0.6398993730545044</data>
+</edge>
+<edge source="first" target="new">
+  <data key="d1">0.7356249690055847</data>
+</edge>
+<edge source="ever" target="thing">
+  <data key="d1">0.8372806906700134</data>
+</edge>
+<edge source="ever" target="could">
+  <data key="d1">0.7953932881355286</data>
+</edge>
+<edge source="thing" target="piece">
+  <data key="d1">0.6066798567771912</data>
+</edge>
+<edge source="thing" target="every">
+  <data key="d1">0.8009667992591858</data>
+</edge>
+<edge source="could" target="would">
+  <data key="d1">0.9428040981292725</data>
+</edge>
+<edge source="could" target="may">
+  <data key="d1">0.6410415768623352</data>
+</edge>
+<edge source="brazil" target="portugal">
+  <data key="d1">0.696302056312561</data>
+</edge>
+<edge source="portugal" target="lisbon">
+  <data key="d1">0.5164337754249573</data>
+</edge>
+<edge source="inside" target="behind">
+  <data key="d1">0.7524545788764954</data>
+</edge>
+<edge source="blog" target="post">
+  <data key="d1">0.8042826056480408</data>
+</edge>
+<edge source="blog" target="via">
+  <data key="d1">0.6338077783584595</data>
+</edge>
+<edge source="post" target="update">
+  <data key="d1">0.659888744354248</data>
+</edge>
+<edge source="post" target="share">
+  <data key="d1">0.6515282988548279</data>
+</edge>
+<edge source="segment" target="interview">
+  <data key="d1">0.5891816020011902</data>
+</edge>
+<edge source="maximize" target="generate">
+  <data key="d1">0.5890127420425415</data>
+</edge>
+<edge source="generate" target="create">
+  <data key="d1">0.6519468426704407</data>
+</edge>
+<edge source="museum" target="art">
+  <data key="d1">0.6273240447044373</data>
+</edge>
+<edge source="south" target="north">
+  <data key="d1">0.8941630125045776</data>
+</edge>
+<edge source="south" target="east">
+  <data key="d1">0.8553854823112488</data>
+</edge>
+<edge source="north" target="east">
+  <data key="d1">0.8555088043212891</data>
+</edge>
+<edge source="much" target="lot">
+  <data key="d1">0.8652952909469604</data>
+</edge>
+<edge source="much" target="really">
+  <data key="d1">0.8228057026863098</data>
+</edge>
+<edge source="lot" target="many">
+  <data key="d1">0.7982248067855835</data>
+</edge>
+<edge source="really" target="mean">
+  <data key="d1">0.8316610455513</data>
+</edge>
+<edge source="really" target="still">
+  <data key="d1">0.8428676128387451</data>
+</edge>
+<edge source="really" target="feel">
+  <data key="d1">0.7977899312973022</data>
+</edge>
+<edge source="really" target="always">
+  <data key="d1">0.8189466595649719</data>
+</edge>
+<edge source="break" target="time">
+  <data key="d1">0.7228954434394836</data>
+</edge>
+<edge source="break" target="take">
+  <data key="d1">0.6906515955924988</data>
+</edge>
+<edge source="time" target="last">
+  <data key="d1">0.7914860844612122</data>
+</edge>
+<edge source="time" target="day">
+  <data key="d1">0.7667113542556763</data>
+</edge>
+<edge source="take" target="hold">
+  <data key="d1">0.7184451222419739</data>
+</edge>
+<edge source="take" target="let">
+  <data key="d1">0.8340094685554504</data>
+</edge>
+<edge source="take" target="give">
+  <data key="d1">0.8175141215324402</data>
+</edge>
+<edge source="take" target="bring">
+  <data key="d1">0.7699697017669678</data>
+</edge>
+<edge source="take" target="go">
+  <data key="d1">0.7987967729568481</data>
+</edge>
+<edge source="take" target="try">
+  <data key="d1">0.746938943862915</data>
+</edge>
+<edge source="house" target="home">
+  <data key="d1">0.7727780342102051</data>
+</edge>
+<edge source="house" target="party">
+  <data key="d1">0.7122235894203186</data>
+</edge>
+<edge source="house" target="office">
+  <data key="d1">0.6701400876045227</data>
+</edge>
+<edge source="home" target="work">
+  <data key="d1">0.7355803847312927</data>
+</edge>
+<edge source="home" target="get">
+  <data key="d1">0.7247400283813477</data>
+</edge>
+<edge source="party" target="club">
+  <data key="d1">0.666840136051178</data>
+</edge>
+<edge source="party" target="night">
+  <data key="d1">0.6965452432632446</data>
+</edge>
+<edge source="party" target="friday">
+  <data key="d1">0.6919812560081482</data>
+</edge>
+<edge source="hope" target="well">
+  <data key="d1">0.81986004114151</data>
+</edge>
+<edge source="hope" target="everyone">
+  <data key="d1">0.7942337989807129</data>
+</edge>
+<edge source="hope" target="safe">
+  <data key="d1">0.655667245388031</data>
+</edge>
+<edge source="hope" target="welcome">
+  <data key="d1">0.6616545915603638</data>
+</edge>
+<edge source="well" target="nice">
+  <data key="d1">0.7660847902297974</data>
+</edge>
+<edge source="well" target="good">
+  <data key="d1">0.8378019332885742</data>
+</edge>
+<edge source="well" target="sure">
+  <data key="d1">0.8315321803092957</data>
+</edge>
+<edge source="everyone" target="people">
+  <data key="d1">0.8016465306282043</data>
+</edge>
+<edge source="bigdata" target="predictive">
+  <data key="d1">0.43507659435272217</data>
+</edge>
+<edge source="live" target="show">
+  <data key="d1">0.7037839293479919</data>
+</edge>
+<edge source="show" target="see">
+  <data key="d1">0.6762488484382629</data>
+</edge>
+<edge source="chase" target="let">
+  <data key="d1">0.5564078688621521</data>
+</edge>
+<edge source="let" target="hold">
+  <data key="d1">0.7637008428573608</data>
+</edge>
+<edge source="let" target="bring">
+  <data key="d1">0.7937816977500916</data>
+</edge>
+<edge source="let" target="come">
+  <data key="d1">0.710669994354248</data>
+</edge>
+<edge source="let" target="tell">
+  <data key="d1">0.8280891180038452</data>
+</edge>
+<edge source="let" target="give">
+  <data key="d1">0.8037552237510681</data>
+</edge>
+<edge source="let" target="go">
+  <data key="d1">0.8164138793945312</data>
+</edge>
+<edge source="let" target="ahead">
+  <data key="d1">0.6809365153312683</data>
+</edge>
+<edge source="piece" target="another">
+  <data key="d1">0.6240211725234985</data>
+</edge>
+<edge source="another" target="lead">
+  <data key="d1">0.615384578704834</data>
+</edge>
+<edge source="another" target="every">
+  <data key="d1">0.7824371457099915</data>
+</edge>
+<edge source="social" target="marketing">
+  <data key="d1">0.7487422823905945</data>
+</edge>
+<edge source="social" target="local">
+  <data key="d1">0.5998439788818359</data>
+</edge>
+<edge source="social" target="digital">
+  <data key="d1">0.628136932849884</data>
+</edge>
+<edge source="marketing" target="business">
+  <data key="d1">0.7423524260520935</data>
+</edge>
+<edge source="marketing" target="digital">
+  <data key="d1">0.6344494819641113</data>
+</edge>
+<edge source="marketing" target="roi">
+  <data key="d1">0.4924786686897278</data>
+</edge>
+<edge source="morning" target="night">
+  <data key="d1">0.8085611462593079</data>
+</edge>
+<edge source="morning" target="good">
+  <data key="d1">0.8079935908317566</data>
+</edge>
+<edge source="morning" target="sunday">
+  <data key="d1">0.7921996116638184</data>
+</edge>
+<edge source="morning" target="day">
+  <data key="d1">0.7891743183135986</data>
+</edge>
+<edge source="morning" target="hello">
+  <data key="d1">0.6838775277137756</data>
+</edge>
+<edge source="morning" target="evening">
+  <data key="d1">0.7734785079956055</data>
+</edge>
+<edge source="night" target="late">
+  <data key="d1">0.6922320127487183</data>
+</edge>
+<edge source="night" target="fun">
+  <data key="d1">0.7296018600463867</data>
+</edge>
+<edge source="night" target="last">
+  <data key="d1">0.8130066990852356</data>
+</edge>
+<edge source="night" target="good">
+  <data key="d1">0.8163402676582336</data>
+</edge>
+<edge source="night" target="day">
+  <data key="d1">0.7859731316566467</data>
+</edge>
+<edge source="good" target="nice">
+  <data key="d1">0.8338046669960022</data>
+</edge>
+<edge source="good" target="safe">
+  <data key="d1">0.6352291703224182</data>
+</edge>
+<edge source="sunday" target="evening">
+  <data key="d1">0.8081726431846619</data>
+</edge>
+<edge source="sunday" target="friday">
+  <data key="d1">0.8633003234863281</data>
+</edge>
+<edge source="sunday" target="monday">
+  <data key="d1">0.8559467196464539</data>
+</edge>
+<edge source="day" target="happy">
+  <data key="d1">0.8070886731147766</data>
+</edge>
+<edge source="day" target="birthday">
+  <data key="d1">0.7143557071685791</data>
+</edge>
+<edge source="newcastle" target="sunderland">
+  <data key="d1">0.8145568370819092</data>
+</edge>
+<edge source="newcastle" target="nufc">
+  <data key="d1">0.7438406944274902</data>
+</edge>
+<edge source="con" target="un">
+  <data key="d1">0.6835590600967407</data>
+</edge>
+<edge source="con" target="una">
+  <data key="d1">0.760901927947998</data>
+</edge>
+<edge source="find" target="search">
+  <data key="d1">0.6203646063804626</data>
+</edge>
+<edge source="find" target="discover">
+  <data key="d1">0.6564271450042725</data>
+</edge>
+<edge source="je" target="pas">
+  <data key="d1">0.6713889241218567</data>
+</edge>
+<edge source="pas" target="plus">
+  <data key="d1">0.7254241704940796</data>
+</edge>
+<edge source="pas" target="même">
+  <data key="d1">0.7632365226745605</data>
+</edge>
+<edge source="hold" target="give">
+  <data key="d1">0.7120116949081421</data>
+</edge>
+<edge source="give" target="chance">
+  <data key="d1">0.6607664227485657</data>
+</edge>
+<edge source="event" target="sponsor">
+  <data key="d1">0.5779838562011719</data>
+</edge>
+<edge source="event" target="special">
+  <data key="d1">0.6542096138000488</data>
+</edge>
+<edge source="event" target="festival">
+  <data key="d1">0.6266023516654968</data>
+</edge>
+<edge source="rafa" target="benitez">
+  <data key="d1">0.6542012691497803</data>
+</edge>
+<edge source="like" target="look">
+  <data key="d1">0.8467990159988403</data>
+</edge>
+<edge source="like" target="feel">
+  <data key="d1">0.8085989952087402</data>
+</edge>
+<edge source="look" target="short">
+  <data key="d1">0.6099445223808289</data>
+</edge>
+<edge source="look" target="cute">
+  <data key="d1">0.7220053672790527</data>
+</edge>
+<edge source="pour" target="faire">
+  <data key="d1">0.8058580756187439</data>
+</edge>
+<edge source="pour" target="et">
+  <data key="d1">0.7838464379310608</data>
+</edge>
+<edge source="pour" target="avec">
+  <data key="d1">0.7752376198768616</data>
+</edge>
+<edge source="pour" target="fait">
+  <data key="d1">0.7684735655784607</data>
+</edge>
+<edge source="pour" target="à">
+  <data key="d1">0.7605448961257935</data>
+</edge>
+<edge source="pour" target="sur">
+  <data key="d1">0.722870409488678</data>
+</edge>
+<edge source="pour" target="par">
+  <data key="d1">0.6122797131538391</data>
+</edge>
+<edge source="faire" target="fait">
+  <data key="d1">0.8792769312858582</data>
+</edge>
+<edge source="et" target="des">
+  <data key="d1">0.7000557780265808</data>
+</edge>
+<edge source="et" target="avec">
+  <data key="d1">0.7832573056221008</data>
+</edge>
+<edge source="et" target="est">
+  <data key="d1">0.7754266858100891</data>
+</edge>
+<edge source="avec" target="même">
+  <data key="d1">0.796364963054657</data>
+</edge>
+<edge source="avec" target="fait">
+  <data key="d1">0.7943359613418579</data>
+</edge>
+<edge source="avec" target="à">
+  <data key="d1">0.7357239127159119</data>
+</edge>
+<edge source="avec" target="sur">
+  <data key="d1">0.7369597554206848</data>
+</edge>
+<edge source="avec" target="une">
+  <data key="d1">0.7633818984031677</data>
+</edge>
+<edge source="avec" target="des">
+  <data key="d1">0.702925443649292</data>
+</edge>
+<edge source="avec" target="par">
+  <data key="d1">0.6067265272140503</data>
+</edge>
+<edge source="fait" target="ça">
+  <data key="d1">0.8811526894569397</data>
+</edge>
+<edge source="fait" target="est">
+  <data key="d1">0.8066173195838928</data>
+</edge>
+<edge source="fait" target="même">
+  <data key="d1">0.8605188131332397</data>
+</edge>
+<edge source="fait" target="qui">
+  <data key="d1">0.7729716897010803</data>
+</edge>
+<edge source="fait" target="une">
+  <data key="d1">0.7796955108642578</data>
+</edge>
+<edge source="fait" target="tout">
+  <data key="d1">0.8374440670013428</data>
+</edge>
+<edge source="fait" target="quand">
+  <data key="d1">0.8287574648857117</data>
+</edge>
+<edge source="local" target="area">
+  <data key="d1">0.6504179835319519</data>
+</edge>
+<edge source="local" target="community">
+  <data key="d1">0.6199530363082886</data>
+</edge>
+<edge source="area" target="city">
+  <data key="d1">0.6418986320495605</data>
+</edge>
+<edge source="last" target="week">
+  <data key="d1">0.8144310712814331</data>
+</edge>
+<edge source="hear" target="tell">
+  <data key="d1">0.7970193028450012</data>
+</edge>
+<edge source="hear" target="talk">
+  <data key="d1">0.766560971736908</data>
+</edge>
+<edge source="tell" target="ask">
+  <data key="d1">0.7238406538963318</data>
+</edge>
+<edge source="tell" target="say">
+  <data key="d1">0.8379145860671997</data>
+</edge>
+<edge source="tell" target="talk">
+  <data key="d1">0.8370678424835205</data>
+</edge>
+<edge source="talk" target="speak">
+  <data key="d1">0.736492395401001</data>
+</edge>
+<edge source="talk" target="conversation">
+  <data key="d1">0.6810721158981323</data>
+</edge>
+<edge source="ça" target="à">
+  <data key="d1">0.7213860154151917</data>
+</edge>
+<edge source="ça" target="qui">
+  <data key="d1">0.7689891457557678</data>
+</edge>
+<edge source="ça" target="tout">
+  <data key="d1">0.8503705263137817</data>
+</edge>
+<edge source="ça" target="même">
+  <data key="d1">0.85878986120224</data>
+</edge>
+<edge source="job" target="manager">
+  <data key="d1">0.7377169728279114</data>
+</edge>
+<edge source="job" target="work">
+  <data key="d1">0.7251749038696289</data>
+</edge>
+<edge source="job" target="position">
+  <data key="d1">0.6546347141265869</data>
+</edge>
+<edge source="manager" target="boss">
+  <data key="d1">0.6405095458030701</data>
+</edge>
+<edge source="manager" target="staff">
+  <data key="d1">0.6696469187736511</data>
+</edge>
+<edge source="work" target="late">
+  <data key="d1">0.6969349384307861</data>
+</edge>
+<edge source="work" target="hard">
+  <data key="d1">0.7126030325889587</data>
+</edge>
+<edge source="work" target="get">
+  <data key="d1">0.7710584402084351</data>
+</edge>
+<edge source="work" target="early">
+  <data key="d1">0.7592190504074097</data>
+</edge>
+<edge source="open" target="close">
+  <data key="d1">0.6714761853218079</data>
+</edge>
+<edge source="place" target="right">
+  <data key="d1">0.7234785556793213</data>
+</edge>
+<edge source="place" target="position">
+  <data key="d1">0.6059565544128418</data>
+</edge>
+<edge source="right" target="point">
+  <data key="d1">0.6922115683555603</data>
+</edge>
+<edge source="right" target="head">
+  <data key="d1">0.7493096590042114</data>
+</edge>
+<edge source="london" target="uk">
+  <data key="d1">0.7124235033988953</data>
+</edge>
+<edge source="london" target="paris">
+  <data key="d1">0.6332480907440186</data>
+</edge>
+<edge source="uk" target="usa">
+  <data key="d1">0.5968062877655029</data>
+</edge>
+<edge source="base" target="point">
+  <data key="d1">0.5214654803276062</data>
+</edge>
+<edge source="point" target="end">
+  <data key="d1">0.6861431002616882</data>
+</edge>
+<edge source="business" target="market">
+  <data key="d1">0.6505990028381348</data>
+</edge>
+<edge source="même" target="quand">
+  <data key="d1">0.8610540628433228</data>
+</edge>
+<edge source="même" target="plus">
+  <data key="d1">0.7182461023330688</data>
+</edge>
+<edge source="même" target="tout">
+  <data key="d1">0.8446229100227356</data>
+</edge>
+<edge source="meet" target="see">
+  <data key="d1">0.7397831678390503</data>
+</edge>
+<edge source="see" target="watch">
+  <data key="d1">0.7351280450820923</data>
+</edge>
+<edge source="los" target="las">
+  <data key="d1">0.7172248959541321</data>
+</edge>
+<edge source="support" target="help">
+  <data key="d1">0.6731442213058472</data>
+</edge>
+<edge source="support" target="sponsor">
+  <data key="d1">0.5553615093231201</data>
+</edge>
+<edge source="help" target="need">
+  <data key="d1">0.7817544937133789</data>
+</edge>
+<edge source="retirement" target="retire">
+  <data key="d1">0.6264123320579529</data>
+</edge>
+<edge source="retire" target="return">
+  <data key="d1">0.5032085180282593</data>
+</edge>
+<edge source="late" target="early">
+  <data key="d1">0.8265724778175354</data>
+</edge>
+<edge source="early" target="monday">
+  <data key="d1">0.7424768209457397</data>
+</edge>
+<edge source="hello" target="welcome">
+  <data key="d1">0.6986154317855835</data>
+</edge>
+<edge source="des" target="les">
+  <data key="d1">0.7747066020965576</data>
+</edge>
+<edge source="des" target="par">
+  <data key="d1">0.6096636056900024</data>
+</edge>
+<edge source="а" target="с">
+  <data key="d1">0.6541371941566467</data>
+</edge>
+<edge source="а" target="в">
+  <data key="d1">0.6944336295127869</data>
+</edge>
+<edge source="а" target="на">
+  <data key="d1">0.653215229511261</data>
+</edge>
+<edge source="а" target="и">
+  <data key="d1">0.7397565245628357</data>
+</edge>
+<edge source="а" target="не">
+  <data key="d1">0.757175087928772</data>
+</edge>
+<edge source="speak" target="language">
+  <data key="d1">0.7196459174156189</data>
+</edge>
+<edge source="info" target="email">
+  <data key="d1">0.6318943500518799</data>
+</edge>
+<edge source="info" target="link">
+  <data key="d1">0.6195786595344543</data>
+</edge>
+<edge source="info" target="detail">
+  <data key="d1">0.5526652336120605</data>
+</edge>
+<edge source="email" target="link">
+  <data key="d1">0.6555555462837219</data>
+</edge>
+<edge source="link" target="click">
+  <data key="d1">0.6905517578125</data>
+</edge>
+<edge source="stop" target="keep">
+  <data key="d1">0.7542293071746826</data>
+</edge>
+<edge source="keep" target="stay">
+  <data key="d1">0.8110263347625732</data>
+</edge>
+<edge source="keep" target="always">
+  <data key="d1">0.7853223085403442</data>
+</edge>
+<edge source="boy" target="boss">
+  <data key="d1">0.610291063785553</data>
+</edge>
+<edge source="boy" target="man">
+  <data key="d1">0.7174534797668457</data>
+</edge>
+<edge source="с" target="и">
+  <data key="d1">0.7130123972892761</data>
+</edge>
+<edge source="с" target="в">
+  <data key="d1">0.6743226647377014</data>
+</edge>
+<edge source="с" target="на">
+  <data key="d1">0.654302716255188</data>
+</edge>
+<edge source="и" target="в">
+  <data key="d1">0.6964054107666016</data>
+</edge>
+<edge source="и" target="на">
+  <data key="d1">0.707116425037384</data>
+</edge>
+<edge source="и" target="не">
+  <data key="d1">0.7318404316902161</data>
+</edge>
+<edge source="в" target="на">
+  <data key="d1">0.6964101791381836</data>
+</edge>
+<edge source="qui" target="est">
+  <data key="d1">0.7575624585151672</data>
+</edge>
+<edge source="qui" target="quand">
+  <data key="d1">0.7569200396537781</data>
+</edge>
+<edge source="nufc" target="safc">
+  <data key="d1">0.8412532210350037</data>
+</edge>
+<edge source="view" target="photo">
+  <data key="d1">0.6292839050292969</data>
+</edge>
+<edge source="available" target="free">
+  <data key="d1">0.660453736782074</data>
+</edge>
+<edge source="free" target="get">
+  <data key="d1">0.6735401153564453</data>
+</edge>
+<edge source="bring" target="need">
+  <data key="d1">0.7668251991271973</data>
+</edge>
+<edge source="bring" target="come">
+  <data key="d1">0.7168970704078674</data>
+</edge>
+<edge source="need" target="want">
+  <data key="d1">0.8383844494819641</data>
+</edge>
+<edge source="need" target="get">
+  <data key="d1">0.8388121128082275</data>
+</edge>
+<edge source="safe" target="stay">
+  <data key="d1">0.6652193069458008</data>
+</edge>
+<edge source="safe" target="soon">
+  <data key="d1">0.634038507938385</data>
+</edge>
+<edge source="stay" target="always">
+  <data key="d1">0.7613463997840881</data>
+</edge>
+<edge source="stay" target="still">
+  <data key="d1">0.7424296736717224</data>
+</edge>
+<edge source="un" target="una">
+  <data key="d1">0.7090529799461365</data>
+</edge>
+<edge source="una" target="la">
+  <data key="d1">0.7145931720733643</data>
+</edge>
+<edge source="body" target="natural">
+  <data key="d1">0.5712918043136597</data>
+</edge>
+<edge source="デリヘル" target="ソープ">
+  <data key="d1">0.5016310811042786</data>
+</edge>
+<edge source="à" target="une">
+  <data key="d1">0.7199236750602722</data>
+</edge>
+<edge source="une" target="sur">
+  <data key="d1">0.7328827381134033</data>
+</edge>
+<edge source="une" target="par">
+  <data key="d1">0.6176832914352417</data>
+</edge>
+<edge source="announce" target="release">
+  <data key="d1">0.660041332244873</data>
+</edge>
+<edge source="change" target="perspective">
+  <data key="d1">0.5973015427589417</data>
+</edge>
+<edge source="come" target="go">
+  <data key="d1">0.7196117639541626</data>
+</edge>
+<edge source="come" target="due">
+  <data key="d1">0.5723814964294434</data>
+</edge>
+<edge source="rock" target="pop">
+  <data key="d1">0.7111281752586365</data>
+</edge>
+<edge source="rock" target="band">
+  <data key="d1">0.6734633445739746</data>
+</edge>
+<edge source="code" target="use">
+  <data key="d1">0.5713787078857422</data>
+</edge>
+<edge source="modeling" target="model">
+  <data key="d1">0.5838562846183777</data>
+</edge>
+<edge source="shop" target="buy">
+  <data key="d1">0.6815842390060425</data>
+</edge>
+<edge source="buy" target="price">
+  <data key="d1">0.7100780606269836</data>
+</edge>
+<edge source="investment" target="property">
+  <data key="d1">0.7007136344909668</data>
+</edge>
+<edge source="investment" target="strategic">
+  <data key="d1">0.6076290607452393</data>
+</edge>
+<edge source="package" target="gift">
+  <data key="d1">0.6389415264129639</data>
+</edge>
+<edge source="gift" target="christmas">
+  <data key="d1">0.694717526435852</data>
+</edge>
+<edge source="travel" target="trip">
+  <data key="d1">0.617297887802124</data>
+</edge>
+<edge source="wednesday" target="monday">
+  <data key="d1">0.9001428484916687</data>
+</edge>
+<edge source="wednesday" target="friday">
+  <data key="d1">0.8765112161636353</data>
+</edge>
+<edge source="monday" target="friday">
+  <data key="d1">0.8873699307441711</data>
+</edge>
+<edge source="panama" target="mexico">
+  <data key="d1">0.6979560852050781</data>
+</edge>
+<edge source="mexico" target="america">
+  <data key="d1">0.6804841160774231</data>
+</edge>
+<edge source="congratulation" target="congrat">
+  <data key="d1">0.7631309628486633</data>
+</edge>
+<edge source="end" target="part">
+  <data key="d1">0.6948988437652588</data>
+</edge>
+<edge source="surf" target="beach">
+  <data key="d1">0.5530684590339661</data>
+</edge>
+<edge source="beach" target="malibu">
+  <data key="d1">0.5413458347320557</data>
+</edge>
+<edge source="mean" target="would">
+  <data key="d1">0.8323941230773926</data>
+</edge>
+<edge source="la" target="tu">
+  <data key="d1">0.6945945024490356</data>
+</edge>
+<edge source="la" target="de">
+  <data key="d1">0.6583121418952942</data>
+</edge>
+<edge source="la" target="en">
+  <data key="d1">0.6423836946487427</data>
+</edge>
+<edge source="las" target="son">
+  <data key="d1">0.6075332760810852</data>
+</edge>
+<edge source="people" target="many">
+  <data key="d1">0.8179203271865845</data>
+</edge>
+<edge source="nicaragua" target="belize">
+  <data key="d1">0.4674414396286011</data>
+</edge>
+<edge source="rate" target="price">
+  <data key="d1">0.5138702392578125</data>
+</edge>
+<edge source="price" target="sale">
+  <data key="d1">0.6035663485527039</data>
+</edge>
+<edge source="always" target="still">
+  <data key="d1">0.8112100958824158</data>
+</edge>
+<edge source="part" target="story">
+  <data key="d1">0.7219293117523193</data>
+</edge>
+<edge source="sur" target="par">
+  <data key="d1">0.6253829598426819</data>
+</edge>
+<edge source="tour" target="festival">
+  <data key="d1">0.6172778606414795</data>
+</edge>
+<edge source="city" target="club">
+  <data key="d1">0.6455740928649902</data>
+</edge>
+<edge source="trailer" target="video">
+  <data key="d1">0.660502552986145</data>
+</edge>
+<edge source="education" target="primary">
+  <data key="d1">0.587742030620575</data>
+</edge>
+<edge source="score" target="scoring">
+  <data key="d1">0.7030158638954163</data>
+</edge>
+<edge source="forward" target="ahead">
+  <data key="d1">0.7403414845466614</data>
+</edge>
+<edge source="sure" target="may">
+  <data key="d1">0.6402102708816528</data>
+</edge>
+<edge source="primary" target="school">
+  <data key="d1">0.5850098729133606</data>
+</edge>
+<edge source="school" target="high">
+  <data key="d1">0.7116101384162903</data>
+</edge>
+<edge source="de" target="en">
+  <data key="d1">0.7406617999076843</data>
+</edge>
+<edge source="de" target="por">
+  <data key="d1">0.6373962163925171</data>
+</edge>
+<edge source="por" target="desde">
+  <data key="d1">0.6859936714172363</data>
+</edge>
+<edge source="por" target="para">
+  <data key="d1">0.6696406006813049</data>
+</edge>
+<edge source="usa" target="america">
+  <data key="d1">0.6357777118682861</data>
+</edge>
+<edge source="issue" target="problem">
+  <data key="d1">0.6080890893936157</data>
+</edge>
+<edge source="celebrate" target="happy">
+  <data key="d1">0.647296130657196</data>
+</edge>
+<edge source="happy" target="birthday">
+  <data key="d1">0.8998555541038513</data>
+</edge>
+<edge source="office" target="staff">
+  <data key="d1">0.6787570714950562</data>
+</edge>
+<edge source="tune" target="radio">
+  <data key="d1">0.6837116479873657</data>
+</edge>
+</graph></graphml>
